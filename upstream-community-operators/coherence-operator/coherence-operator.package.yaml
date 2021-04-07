@@ -1,0 +1,5 @@
+packageName: coherence-operator
+defaultChannel: stable
+channels:
+  - name: stable
+    currentCSV: coherence-operator.v3.1.5
